@@ -8,6 +8,7 @@ We study the problem of learning the optimal policy in a discounted, infinite-ho
     <img src="https://github.com/sreejeetm1729/Robust-Asynchronous-Q-Learning-with-Markovian-Data/blob/main/Figures%20and%20Tables/arxiv_6.png" style="width:350px">
  </td>
 </tr>
+  The Robust Variants are as follows:
 <table>
 <tr>
   <td>
