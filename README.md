@@ -2,18 +2,6 @@ We study the problem of learning the optimal policy in a discounted, infinite-ho
 <table>
 <tr>
   <td>
-    <img src="https://github.com/sreejeetm1729/Robust-Asynchronous-Q-Learning-with-Markovian-Data/blob/main/Figures%20and%20Tables/arxiv_1.png" style="width:350px">
-    <img src="https://github.com/sreejeetm1729/Robust-Asynchronous-Q-Learning-with-Markovian-Data/blob/main/Figures%20and%20Tables/arxiv_2.png" style="width:350px">
-    <img src="https://github.com/sreejeetm1729/Robust-Asynchronous-Q-Learning-with-Markovian-Data/blob/main/Figures%20and%20Tables/arxiv_8.png" style="width:350px">
-    <img src="https://github.com/sreejeetm1729/Robust-Asynchronous-Q-Learning-with-Markovian-Data/blob/main/Figures%20and%20Tables/arxiv_6.png" style="width:350px">
- </td>
-</tr>
-<break>
-  LLalala
-</break>
-<table>
-<tr>
-  <td>
     <img src="https://github.com/sreejeetm1729/Robust-Asynchronous-Q-Learning-with-Markovian-Data/blob/main/Figures%20and%20Tables/arxiv_10.png" style="width:350px">
     <img src="https://github.com/sreejeetm1729/Robust-Asynchronous-Q-Learning-with-Markovian-Data/blob/main/Figures%20and%20Tables/arxiv_3.png" style="width:350px">
     <img src="https://github.com/sreejeetm1729/Robust-Asynchronous-Q-Learning-with-Markovian-Data/blob/main/Figures%20and%20Tables/arxiv_12.png" style="width:350px">
