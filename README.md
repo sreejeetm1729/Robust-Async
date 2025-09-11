@@ -4,7 +4,6 @@ We study the problem of learning the optimal policy in a discounted, infinite-ho
   <td>
     <img src="https://github.com/sreejeetm1729/Robust-Asynchronous-Q-Learning-with-Markovian-Data/blob/main/Figures%20and%20Tables/arxiv_1.png" style="width:300px">
     <img src="https://github.com/sreejeetm1729/Robust-Asynchronous-Q-Learning-with-Markovian-Data/blob/main/Figures%20and%20Tables/arxiv_2.png" style="width:300px">
-    <img src="https://github.com/sreejeetm1729/Robust-Asynchronous-Q-Learning-with-Markovian-Data/blob/main/Figures%20and%20Tables/arxiv_4.png" style="width:300px">
     <img src="https://github.com/sreejeetm1729/Robust-Asynchronous-Q-Learning-with-Markovian-Data/blob/main/Figures%20and%20Tables/arxiv_8.png" style="width:300px">
  </td>
 </tr>
